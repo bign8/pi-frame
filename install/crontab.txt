@@ -1,1 +1,2 @@
-@reboot /home/pi/frame/src/frame_start.sh
+# This is an issue!!
+@reboot /home/pi/pi-frame/src/frame_start.sh
