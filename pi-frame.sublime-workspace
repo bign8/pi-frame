@@ -1,0 +1,550 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"f",
+				"f	Anonymous Function"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"if",
+				"ife	if … else"
+			],
+			[
+				"refre",
+				"refreshRate"
+			],
+			[
+				"update",
+				"updateSettings"
+			],
+			[
+				"fn",
+				"fn"
+			],
+			[
+				"und",
+				"undefined"
+			],
+			[
+				"Ma",
+				"Max"
+			],
+			[
+				"guid",
+				"GUID"
+			],
+			[
+				"session",
+				"sessionStorage"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"toggle",
+				"toggleBtn"
+			],
+			[
+				"drop",
+				"dropTarget"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "pi-frame.txt",
+			"settings":
+			{
+				"buffer_size": 1675,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "frame/install/crontab.txt",
+			"settings":
+			{
+				"buffer_size": 41,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "frame/install/install.sh",
+			"settings":
+			{
+				"buffer_size": 529,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "frame/src/frame_start.sh",
+			"settings":
+			{
+				"buffer_size": 454,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "frame/src/screen_off.sh",
+			"settings":
+			{
+				"buffer_size": 155,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "frame/src/screen_on.sh",
+			"settings":
+			{
+				"buffer_size": 146,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Nathan/Desktop/setup.sh",
+			"settings":
+			{
+				"buffer_size": 636,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ssjavas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"snippet:jquery",
+				"Snippet: jQuery Plugin Boilerplate"
+			],
+			[
+				"Snippet: ",
+				"Snippet: if … else"
+			],
+			[
+				"snippet",
+				"Snippet: html"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML"
+			],
+			[
+				"snippe html",
+				"Snippet: html"
+			],
+			[
+				"",
+				"Snippet: html"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"sshtm",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 386.0
+	},
+	"console":
+	{
+		"height": 127.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Nathan/Desktop/pi frame/pi-frame.sublime-project",
+		"/C/Users/Nathan/git/distributed-particle-system/run.bat",
+		"/C/Users/Nathan/git/distributed-particle-system/start.bat",
+		"/C/Users/Nathan/git/distributed-particle-system/.gitignore",
+		"/C/Users/Nathan/Desktop/Carroll X - Spring 2013/applications/Sublime Text 2.0.1/Data/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Nathan/git/distributed-particle-system/distributed-particle-system.sublime-project",
+		"/X/applications/Sublime Text 2.0.1/Data/Packages/User/Preferences.sublime-settings",
+		"/X/applications/Sublime Text 2.0.1/Data/Packages/Default/Preferences.sublime-settings",
+		"/X/applications/Sublime Text 2.0.1/Data/Packages/AdvancedNewFile/README.md",
+		"/C/Users/Nathan/git/distributed-particle-system/www/test.txt",
+		"/X/applications/Sublime Text 2.0.1/Data/Settings/SideBarEnhancements.json",
+		"/X/applications/Sublime Text 2.0.1/Data/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/X/applications/Sublime Text 2.0.1/Data/Packages/JavaScript/for-()-{}.sublime-snippet",
+		"/X/applications/Sublime Text 2.0.1/Data/Packages/JavaScript/function-(fun).sublime-snippet",
+		"/X/applications/Sublime Text 2.0.1/Data/Packages/JavaScript/function.sublime-snippet",
+		"/X/applications/Sublime Text 2.0.1/Data/Packages/JavaScript/Get-Elements.sublime-snippet",
+		"/X/applications/Sublime Text 2.0.1/Data/Packages/JavaScript/if.sublime-snippet",
+		"/X/applications/Sublime Text 2.0.1/Data/Packages/JavaScript/if-___-else.sublime-snippet",
+		"/X/applications/Sublime Text 2.0.1/Data/Packages/JavaScript/Object-Method.sublime-snippet",
+		"/X/applications/Sublime Text 2.0.1/Data/Packages/JavaScript/Object-key-key-value.sublime-snippet",
+		"/X/applications/Sublime Text 2.0.1/Data/Packages/JavaScript/Object-Value-JS.sublime-snippet",
+		"/X/applications/Sublime Text 2.0.1/Data/Packages/JavaScript/Prototype-(proto).sublime-snippet",
+		"/X/applications/Sublime Text 2.0.1/Data/Packages/JavaScript/setTimeout-function.sublime-snippet",
+		"/C/Users/Nathan/git/distributed-particle-system/www/in/css.css",
+		"/C/Users/Nathan/git/distributed-particle-system/www/in/admin.css",
+		"/C/Users/Nathan/git/distributed-particle-system/README.md",
+		"/C/Users/Nathan/git/distributed-particle-system/config/config.js",
+		"/X/applications/Sublime Text 2.0.1/Data/KEEPME",
+		"/X/applications/Sublime Text 2.0.1/Data/Packages/Vintage/vintage.py",
+		"/X/applications/Sublime Text 2.0.1/Data/Settings/Session.sublime_session",
+		"/X/applications/Sublime Text 2.0.1/Data/Settings/Auto Save Session.sublime_session",
+		"/X/applications/Sublime Text 2.0.1/sublime_text.exe"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"/usr/bin/",
+			",",
+			", ",
+			" ",
+			"{ ",
+			"links",
+			"script",
+			"range-max",
+			"max",
+			"ballColor",
+			"ballSize",
+			"ball ",
+			"ball",
+			"state",
+			"></",
+			"p",
+			"screenNumber",
+			"')",
+			")})",
+			"that",
+			"id",
+			"badNumber",
+			"holder",
+			"moveExact",
+			"a",
+			"dropTarget",
+			"obj",
+			"50",
+			"toggleUnloadedScrolling",
+			"\n",
+			"a",
+			"A",
+			"a",
+			"cool",
+			"asdf"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "pi-frame.txt",
+					"settings":
+					{
+						"buffer_size": 1675,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								950,
+								936
+							]
+						],
+						"settings":
+						{
+							"buffer_scroll_name": "50da46dd",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "frame/install/crontab.txt",
+					"settings":
+					{
+						"buffer_size": 41,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								41,
+								41
+							]
+						],
+						"settings":
+						{
+							"buffer_scroll_name": "67f2eeb4",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "frame/install/install.sh",
+					"settings":
+					{
+						"buffer_size": 529,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								265,
+								265
+							]
+						],
+						"settings":
+						{
+							"buffer_scroll_name": "b597243a",
+							"spell_check": false,
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "frame/src/frame_start.sh",
+					"settings":
+					{
+						"buffer_size": 454,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								114,
+								114
+							]
+						],
+						"settings":
+						{
+							"buffer_scroll_name": "1b7cb2f3",
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "frame/src/screen_off.sh",
+					"settings":
+					{
+						"buffer_size": 155,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								38,
+								0
+							]
+						],
+						"settings":
+						{
+							"buffer_scroll_name": "5662ab60",
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "frame/src/screen_on.sh",
+					"settings":
+					{
+						"buffer_size": 146,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								114,
+								114
+							]
+						],
+						"settings":
+						{
+							"buffer_scroll_name": "8bd7d779",
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Users/Nathan/Desktop/setup.sh",
+					"settings":
+					{
+						"buffer_size": 636,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"buffer_scroll_name": "3c450b60",
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"rstln",
+				"rstlne"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/Nathan/Desktop/webwork kcline/webwork-kcline.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 180.0,
+	"status_bar_visible": true
+}

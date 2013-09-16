@@ -1,0 +1,106 @@
+http://rberrypi.blogspot.com/2013/05/a-raspberry-pi-based-digital-picture.html
+
+# the -p makes parents as required
+mkdir -p /home/pi/frame/photos
+mkdir /home/pi/frame/src
+
+sudo apt-get update
+sudo apt-get upgrade
+
+# additional requirements/configuration
+sudo apt-get install feh x11-xserver-utils
+
+# remove wheezy crap
+sudo apt-get remove scratch omxplayer python
+sudo apt-get autoremove
+
+# NOTES
+use pkill instead of kill.sh (http://stackoverflow.com/a/160926)
+xset s off -dpms (disable screen saver)
+crontab cron-file.txt (install from a cron-file)
+crontab -l (list crontab entries)
+
+sudo vi /etc/rc.local (possible startup option)
+looks like the raspi-config uses update-rc.d for starting x server
+
+pidof X (finds process id of x, use kill command to stop) http://stackoverflow.com/a/637059
+
+detect HDMI status with tvservice -s
+
+interesting feh parameters
+--caption-path
+--draw-tinted
+--filelist (online files?)
+--no-menus
+--reload
+--hide-pointer
+
+check out xrandr command (transform video outputs)
+
+all updated packages
+alsa-base
+apt*
+base-files
+vinutils
+cups-*
+curl
+dbus*
+debian-reference-*
+dmsetup
+dpkg*
+e2fslibs
+e2fsprogs
+gdb
+gdbserver
+gnupg
+gpgv
+gvfs*
+idle
+idle-python3.2
+idle3
+ifupdown
+initramfs-tools
+initscripts
+iptables
+isc-dhcp-client
+isc-dhcp-common
+iso-codes
+kmod
+krb5-locales
+lib*
+linux-libc-dev
+locales
+lxtask
+module-init-tools
+multiarch-support
+nfs-common
+openbox
+openssh-*
+openssl
+perl*
+pistore
+poppler-utils
+procps
+python*
+python-rpi.gpio
+raspberrypi-bootloader
+raspi-config
+raspi-copies-and-fills
+rsyslog
+samba-common
+scratch
+sgml-base
+smbclient
+squeak-vm
+ssh
+sudo
+sysv-rc
+sysvinit*
+tasksel*
+tzdata
+udev
+vim-common
+vim-tiny
+wiptail
+x11-common
+xserver-*
