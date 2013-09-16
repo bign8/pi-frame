@@ -104,3 +104,13 @@ vim-tiny
 wiptail
 x11-common
 xserver-*
+
+
+Commands to install and configure GIT on raspbian
+sudo apt-get install git
+git config --global user.name "bign8"
+git config --global user.email "**********"
+eval `ssh-agent -s`
+ssh-keygen -t rsa -C "big.nate.w@gmail.com"
+ssh-add id_rsa
+cat id_rsa.pub # copy to ssh-keys on github settings

@@ -1,2 +1,9 @@
 {
+	"folders":
+	[
+		{
+			"path": "/C/Users/Nathan/git/pi-frame",
+			"file_exclude_patterns": ["ftpsync.settings"]
+		}
+	]
 }
