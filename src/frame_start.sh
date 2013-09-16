@@ -15,6 +15,6 @@ export DISPLAY=:0
 xset s off -dpms
 
 # Start slide show
-feh --quiet --recursive --randomize --full-screen --hide-pointer --slideshow-delay 15 /home/pi/frame/photos/ 2>&1 | cat > /dev/null &
+feh --quiet --recursive --randomize --full-screen --hide-pointer --slideshow-delay 15 ../photos/ 2>&1 | cat > /dev/null &
 
 exit 0
